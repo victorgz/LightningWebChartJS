@@ -6,7 +6,9 @@
 		src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 	</a>
 </div>
-	
+
+Test here
+
 <div align="center">
 	<h3>Simple yet flexible charting Lightning Web Component using Chart.js for admins & developers</h3>
 	<a href="https://github.com/SalesforceLabs/LightningWebChartJS/network/members">
