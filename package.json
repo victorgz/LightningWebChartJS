@@ -1,7 +1,7 @@
 {
   "name": "lwcc",
   "private": true,
-  "version": "1.8.2",
+  "version": "1.8.3",
   "description": "Lightning Web Chart.js Component",
   "scripts": {
     "lint": "npm run lint:lwc && npm run lint:apex",
